@@ -39,13 +39,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Tamilmani’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamilmani1947&show_icons=true&theme=gruvbox&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilmani1947&layout=compact&theme=gruvbox&cache_seconds=1800)
-
----
-
 ## 📫 Connect with Me
 
 - 📧 **Email:** [tamilmanielango3578@gmail.com](mailto:tamilmanielango3578@gmail.com)  
