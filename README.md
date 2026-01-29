@@ -13,8 +13,8 @@
 
 </div>
 
-🎓 B.Tech in Artificial Intelligence and Data Science at Nandha Engineering College  
-💻 Passionate about solving real‑world problems with AI and Data and Vibe‑coding. I've done some full‑stack projects.  
+- 🎓 B.Tech in Artificial Intelligence and Data Science at Nandha Engineering College  
+- 💻 Passionate about solving real‑world problems with AI and Data and Vibe‑coding. I've done some full‑stack projects.  
 
 ---
 
